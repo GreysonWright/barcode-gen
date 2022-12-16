@@ -1,0 +1,5 @@
+.CodeContainer {
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(8, 1fr);
+}
